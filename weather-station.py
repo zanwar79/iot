@@ -1,4 +1,3 @@
-import sys
 import Adafruit_DHT
 import RPi.GPIO as GPIO
 
